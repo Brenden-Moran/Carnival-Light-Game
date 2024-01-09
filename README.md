@@ -1,5 +1,7 @@
 # Carnival-Light-Game
-This is a program created for the Tiva TM4C123G microcontroller, it outputs to 7 different colored  LEDs and waits for the user’s input. In order to win the game the user must click the button when the green LED is on. The program makes use of ports B for output and F for input and uses the built in SysTick timer for each LED cycle.
+All of the Assembly Code can be found in the Carnival_Game.s file
+
+This is a program created for the Tiva TM4C123G microcontroller, it outputs to 7 different colored  LEDs and waits for the user’s input. In order to win the game the user must click the button when the green LED is on. The program makes use of ports B for output and F for input and uses the built in SysTick timer for each LED cycle. The program is created with ARM Architecture Assembly Language. 
 
 The provided assembly code is a program for the Tiva TM4C123G microcontroller that acts as a carnival game, as previously explained. Here's a description of the key elements in the assembly code:
 
